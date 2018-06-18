@@ -1,4 +1,5 @@
-## Web Hypertext Application Technology Working Group
+### Web Hypertext Application Technology Working Group
+---
 https://github.com/whatwg
 
 
